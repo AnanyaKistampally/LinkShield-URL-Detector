@@ -1,5 +1,5 @@
 # 🔐 PhishGuard - URL Safety Checker
-
+🔗 **Live Demo (Run locally):** http://localhost:8501
 PhishGuard is a simple cybersecurity tool that detects potential phishing risks in URLs using rule-based analysis.
 
 ---
@@ -37,3 +37,11 @@ A score is calculated and used to classify the URL risk level.
 ```bash
 pip install streamlit  
 streamlit run app.py
+
+---
+
+## 📌 Future Improvements
+
+- Integrate machine learning for better detection  
+- Use real-time phishing databases  
+- Improve UI for better user experience  
